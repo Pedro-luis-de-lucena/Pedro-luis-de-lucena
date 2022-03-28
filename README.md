@@ -12,7 +12,7 @@
 
 
 <div>
-  <h1>linguagens usadas em meus projetos::</h1> 
+  <h1>linguagens usadas em meus projetos:</h1> 
   
 </div>
 
