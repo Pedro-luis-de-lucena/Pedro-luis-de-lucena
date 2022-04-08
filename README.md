@@ -1,5 +1,5 @@
 <div>
-  <h1>Ola, meu nome e pedro castro</h2>
+  <h1>Ola, meu nome e Pedro Castro</h2>
   <h3>Sou atualmente desenvolvedor front end, estou estudando ciencia da computacao e me especializando</h3>
   <h3>segue aqui meu contato:</h3>
 </div>
@@ -29,3 +29,6 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
