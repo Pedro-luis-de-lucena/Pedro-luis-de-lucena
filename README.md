@@ -1,6 +1,6 @@
 <div>
   <h1>Ola, meu nome e Pedro Castro</h2>
-  <h3>Sou atualmente desenvolvedor front end, estou estudando ciencia da computacao e me especializando</h3>
+  <h3>Sou atualmente desenvolvedor de software com esperiencia profissional</h3>
   <h3>segue aqui meu contato:</h3>
 </div>
 
